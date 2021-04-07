@@ -1,0 +1,15 @@
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\EVENTS.csprojAssemblyReference.cache
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\EVENTS.csproj.GenerateResource.cache
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\EVENTS.csproj.CoreCompileInputs.cache
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\вуз\Граф интерфейс\лаба 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
